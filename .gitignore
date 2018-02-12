@@ -1,0 +1,17 @@
+.idea
+.classpath
+.project
+.settings
+.class
+node
+node_modules
+target-grunt
+build
+dist
+target
+log
+build
+test/coverage
+*.iml
+config.js
+log/
